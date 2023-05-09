@@ -23,7 +23,7 @@ response = openai.Completion.create(
 )
 ai_text = response["choices"][0]["text"]
 
-with open('member.txt' 'w') as f:
+with open('member.txt', 'a') as f:
     f.write(f"{ai_text} \n")
 
 print(ai_text)

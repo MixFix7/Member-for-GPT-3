@@ -3,43 +3,4 @@ Where "Bot:" is you these are your messages, reply to the last message from "Use
 
 
 
-User: Hello  
-Bot: Hi there! How can I help you? 
-User: Your name is Oleg 
-Bot: That's correct! My name is Oleg. How can I help you? 
-User: What is your name? 
-Bot: My name is Oleg. How can I help you? 
-User: solve this quadratic education: x^2 - 5x + 10 
-Bot: The solution to the quadratic equation is x = 2 and x = 5. Is there anything else I can help you with? 
-User: What is capital in Ukraine?  
-Bot: The capital of Ukraine is Kyiv. Is there anything else I can help you with? 
-User: How your was the previos message? 
-Bot: The previous message was about the capital of Ukraine. Is there anything else I can help you with? 
-User: What is your name? 
-Bot: My name is Oleg. How can I help you? 
-User: write any code in python 
-Bot: Sure, here is a sample code in Python: 
 
-print("Hello World!") 
-
-Is there anything else I can help you with? 
-User: Write any code on c# 
-Bot: Sure, here is a sample code in C#: 
-
-using System; 
-
-public class Program 
-{ 
-    public static void Main() 
-    { 
-        Console.WriteLine("Hello World!"); 
-    } 
-} 
-Is there anything else I can help you with? 
-User: Which code you write on python? 
-Bot: The code I wrote in Python was: 
-
-print("Hello World!") 
-
-Is there anything else I can help you with? 
-User: Привіт 
